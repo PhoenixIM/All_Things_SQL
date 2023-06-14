@@ -1,0 +1,52 @@
+PRODUCTID,PRODUCTNAME,PRODUCTCATEGORY,QUANTITYINSTOCK,BUYPRICE
+B100167,"Harley Davidson Fat Boy",Bikes,10023,59.88
+B100216,"Ducati Monster",Bikes,9625,70.99
+B100226,"Ducati Multistrada",Bikes,7822,34.56
+B100233,"Harley Davidson Super Glide",Bikes,7453,57.12
+B100360,"Ducati SuperSport",Bikes,8626,59.10
+B100372,"Suzuki Hayabusa",Bikes,9689,38.00
+B100374,"BMW R 1200 GS",Bikes,10944,67.23
+B100413,"Yamaha MT 07",Bikes,9600,36.11
+B100446,"Ducati Panigale V4",Bikes,9557,57.19
+B100498,"Harley Davidson CVO",Bikes,5475,81.02
+B100578,"BMW G310R",Bikes,9292,56.68
+B100625,"Harley Davidson Road Glide Special",Bikes,8357,44.43
+B100823,"Suzuki GSX R1000",Bikes,10997,56.87
+C101046,"Porsche 930",Cars,6005,49.24
+C101099,"Ford Mustang",Cars,9123,95.34
+C101108,"Ferrari 250 GTO",Cars,10274,95.59
+C101129,"Ferrari California",Cars,8128,83.51
+C101444,"Lamborghini Countach",Cars,8074,32.37
+C101589,"Ferrari 456",Cars,9425,101.51
+C101628,"Volks Wagen Jetta 2018",Cars,9197,29.18
+C101889,"Volks Wagen Santana 2015",Cars,9421,53.90
+C101984,"SRT Viper 2013",Cars,9623,93.89
+C102238,"Pagani Huayra BC 2017",Cars,8001,23.90
+C102766,"Porsche Macan",Cars,7350,47.25
+C102824,"Volks Wagen Arteon",Cars,9023,46.53
+C102840,"Ferrari 612 Scaglietti",Cars,6542,15.91
+C102870,"Ferrari F355",Cars,9872,56.76
+C102887,"Porsche 911 GT3",Cars,7452,72.82
+C102972,"Lamborghini Urus",Cars,9723,16.24
+C103148,"Volks Wagen Lavida 2018",Cars,9785,89.14
+C103191,"Chevrolet Corvette C6",Cars,9090,50.51
+C103232,"Pagani Huayra Roadster BC 2019",Cars,9312,77.90
+C103233,"Pagani Huayra R 2021",Cars,8687,57.01
+C103278,"Volks Wagen Polo 2021",Cars,10029,49.05
+C103371,"Porsche 911",Cars,7000,38.58
+C103380,"Pagani Huayra 2012",Cars,8923,75.16
+C103432,"Chevy Corvette 2002",Cars,9739,62.11
+C103482,"Ford Gran Torino",Cars,9382,73.49
+C103685,"Porsche 718 Spyder",Cars,8450,62.16
+C103856,"Volks Wagen Passat 2021",Cars,8002,98.30
+C103891,"Ford Falcon",Cars,7293,83.05
+C103990,"Dodge Copperhead",Cars,8387,31.92
+C104027,"Volks Wagen Virtus 2022",Cars,9789,91.92
+C104048,"Ferrari F12",Cars,6299,69.78
+C104620,"Chevrolet Corvette ZR1 C6",Cars,9928,32.33
+C104675,"Ferrari Testarossa",Cars,7481,58.73
+C104721,"Corvette Z06",Cars,8344,69.93
+C104757,"Ferrari F40",Cars,9246,85.68
+C104933,"Ford Thunderbird",Cars,9312,34.21
+C104962,"Lamborghini Diablo",Cars,8273,103.42
+C109491,"Chevrolet Corvette 2019",Cars,8492,98.58
