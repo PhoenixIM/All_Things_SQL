@@ -1,1 +1,61 @@
-
+Date,Article_Title,No_of_Views
+2023-06-01,String Interpolation in Python,1300
+2023-06-02,String Interpolation in Python,1350
+2023-06-03,String Interpolation in Python,1320
+2023-06-04,String Interpolation in Python,1360
+2023-06-05,String Interpolation in Python,1200
+2023-06-06,String Interpolation in Python,1190
+2023-06-07,String Interpolation in Python,900
+2023-06-08,String Interpolation in Python,890
+2023-06-09,String Interpolation in Python,700
+2023-06-10,String Interpolation in Python,500
+2023-06-01,Generator Expression in Python,1530
+2023-06-02,Generator Expression in Python,1500
+2023-06-03,Generator Expression in Python,1510
+2023-06-04,Generator Expression in Python,1500
+2023-06-05,Generator Expression in Python,1350
+2023-06-06,Generator Expression in Python,1250
+2023-06-07,Generator Expression in Python,1200
+2023-06-08,Generator Expression in Python,1150
+2023-06-09,Generator Expression in Python,1050
+2023-06-10,Generator Expression in Python,900
+2023-06-01,Iterables and Iterators in Python,700
+2023-06-02,Iterables and Iterators in Python,650
+2023-06-03,Iterables and Iterators in Python,670
+2023-06-04,Iterables and Iterators in Python,690
+2023-06-05,Iterables and Iterators in Python,400
+2023-06-06,Iterables and Iterators in Python,350
+2023-06-07,Iterables and Iterators in Python,300
+2023-06-08,Iterables and Iterators in Python,100
+2023-06-09,Iterables and Iterators in Python,110
+2023-06-10,Iterables and Iterators in Python,80
+2023-06-01,Where vs Having vs Qualify in SQL,1390
+2023-06-02,Where vs Having vs Qualify in SQL,1380
+2023-06-03,Where vs Having vs Qualify in SQL,1290
+2023-06-04,Where vs Having vs Qualify in SQL,1250
+2023-06-05,Where vs Having vs Qualify in SQL,1100
+2023-06-06,Where vs Having vs Qualify in SQL,1050
+2023-06-07,Where vs Having vs Qualify in SQL,950
+2023-06-08,Where vs Having vs Qualify in SQL,900
+2023-06-09,Where vs Having vs Qualify in SQL,890
+2023-06-10,Where vs Having vs Qualify in SQL,750
+2023-06-01,Aggregate Functions in SQL,1620
+2023-06-02,Aggregate Functions in SQL,1630
+2023-06-03,Aggregate Functions in SQL,1625
+2023-06-04,Aggregate Functions in SQL,1600
+2023-06-05,Aggregate Functions in SQL,1615
+2023-06-06,Aggregate Functions in SQL,1500
+2023-06-07,Aggregate Functions in SQL,1450
+2023-06-08,Aggregate Functions in SQL,1410
+2023-06-09,Aggregate Functions in SQL,1300
+2023-06-10,Aggregate Functions in SQL,1150
+2023-06-01,Window Functions in SQL,1890
+2023-06-02,Window Functions in SQL,1880
+2023-06-03,Window Functions in SQL,1790
+2023-06-04,Window Functions in SQL,1750
+2023-06-05,Window Functions in SQL,1600
+2023-06-06,Window Functions in SQL,1500
+2023-06-07,Window Functions in SQL,1250
+2023-06-08,Window Functions in SQL,1200
+2023-06-09,Window Functions in SQL,1100
+2023-06-10,Window Functions in SQL,1050
