@@ -1,0 +1,51 @@
+USE DEMO;
+
+#sample data from table ARTICLES
+SELECT 
+    * 
+FROM 
+    DEMO.ARTICLES
+LIMIT 10;
+
+##################################################### RUNNING TOTAL #####################################################
+
+#total number for views for "Aggregate Functions in SQL" by end of each day
+SELECT
+    `DATE`,
+    ARTICLE_TITLE,
+    NO_OF_VIEWS,
+    SUM(NO_OF_VIEWS) OVER (ORDER BY `DATE` RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS RUNNING_TOTAL
+FROM 
+    DEMO.ARTICLES
+WHERE 
+    ARTICLE_TITLE = "Aggregate Functions in SQL";
+
+#total number for views for each article by end of each day
+SELECT
+    `DATE`,
+    ARTICLE_TITLE,
+    NO_OF_VIEWS,
+    SUM(NO_OF_VIEWS) OVER (PARTITION BY ARTICLE_TITLE ORDER BY `DATE` RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS RUNNING_TOTAL
+FROM 
+    DEMO.ARTICLES;
+
+
+##################################################### MOVING AVERAGE #####################################################
+
+#3-days moving average
+SELECT
+    `DATE`,
+    ARTICLE_TITLE,
+    NO_OF_VIEWS,
+    FORMAT(AVG(NO_OF_VIEWS) OVER (PARTITION BY ARTICLE_TITLE ORDER BY `DATE` ROWS BETWEEN 2 PRECEDING AND CURRENT ROW),2) AS MOVING_AVERAGE_3DAYS
+FROM 
+    DEMO.ARTICLES;
+    
+#3-days moving average vs 7-days moving average
+SELECT
+	`DATE`,
+    ARTICLE_TITLE,
+    NO_OF_VIEWS,
+    FORMAT(AVG(NO_OF_VIEWS) OVER (PARTITION BY ARTICLE_TITLE ORDER BY `DATE` ROWS BETWEEN 2 PRECEDING AND CURRENT ROW),2) AS MOVING_AVERAGE_3DAYS,
+    FORMAT(AVG(NO_OF_VIEWS) OVER (PARTITION BY ARTICLE_TITLE ORDER BY `DATE` ROWS BETWEEN 6 PRECEDING AND CURRENT ROW),2) AS MOVING_AVERAGE_7DAYS
+FROM DEMO.ARTICLES;
