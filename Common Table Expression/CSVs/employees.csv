@@ -1,0 +1,31 @@
+EMPLOYEEID,EMPLOYEENAME,JOBTITLE,MANAGER
+EMP100,"Joyce Duffy","Chief Executive Officer",NULL
+EMP101,"Mrs. Hilary Richardson","VP Marketing",EMP100
+EMP1010,"Howard Ward","Sales Consultant",EMP105
+EMP1011,"Josh Hughes","Sales Consultant",EMP105
+EMP1012,"Claire Burgess","Sales Consultant",EMP105
+EMP1013,"Marion Hayward","Sales Consultant",EMP106
+EMP1014,"Mr. Kieran Cooper","Sales Consultant",EMP106
+EMP1015,"Joe Curtis","Sales Consultant",EMP106
+EMP1016,"Jacob Ryan-Fox","Sales Consultant",EMP106
+EMP1017,"Mr. Ryan Butler","Sales Consultant",EMP107
+EMP1018,"Mr. Lewis Pollard","Sales Consultant",EMP107
+EMP1019,"Cameron Cooper","Sales Consultant",EMP107
+EMP102,"Jennifer Hall","VP Sales",EMP100
+EMP1020,"Mrs. Eleanor Hughes","Sales Consultant",EMP107
+EMP1021,"Linda Hope","Sales Consultant",EMP108
+EMP1022,"Gemma Edwards","Sales Consultant",EMP108
+EMP1023,"Leanne Moss","Sales Consultant",EMP108
+EMP1024,"Mr. Mathew Fitzgerald","Marketing Consultant",EMP103
+EMP1025,"Mr. Terry Bennett","Marketing Consultant",EMP103
+EMP1026,"Mr. Gregory Campbell","Marketing Consultant",EMP103
+EMP1027,"Simon Pearson","Marketing Consultant",EMP104
+EMP1028,"Mr. Shane Begum","Marketing Consultant",EMP104
+EMP1029,"Harriet Taylor","Marketing Consultant",EMP104
+EMP103,"Sian North","Marketing Manager",EMP101
+EMP104,"Jack Davison","Marketing Manager",EMP101
+EMP105,"Irene Farmer","Sales Manager",EMP102
+EMP106,"Mrs. Amanda Ward","Sales Manager",EMP102
+EMP107,"Aaron Barnes","Sales Manager",EMP102
+EMP108,"Gerald Williamson","Sales Manager",EMP102
+EMP109,"Reece Wilson","Sales Consultant",EMP105
